@@ -1,4 +1,6 @@
 
+# Make sure the VPN is off otherwise, this wont work.
+
 # Run these to kill the exiting java processes
 killall -9 java
 
